@@ -37,7 +37,7 @@ INF $(PACKAGE_NAME)/Device/$(TARGET_DEVICE)/Binaries/QcomPkg/Drivers/SmemDxe/Sme
 #INF $(PACKAGE_NAME)/Device/$(TARGET_DEVICE)/Binaries/QcomPkg/Drivers/RscDxe/RscDxe.inf
 
 # Patched Binaries
-INF QcomPkg/PatchedBinaries/ButtonsDxe.inf
+INF $(PACKAGE_NAME)/Device/$(TARGET_DEVICE)/PatchedBinaries/ButtonsDxe.inf
 INF QcomPkg/PatchedBinaries/UFSDxe.inf
 INF QcomPkg/PatchedBinaries/UsbConfigDxe.inf
 INF $(PACKAGE_NAME)/Device/$(TARGET_DEVICE)/PatchedBinaries/SPMIDxe.inf
