@@ -82,3 +82,4 @@ $(PACKAGE_NAME)/Device/$(TARGET_DEVICE)/PatchedBinaries/PmicDxeLa.inf
 #$(PACKAGE_NAME)/Device/$(TARGET_DEVICE)/PatchedBinaries/FeatureEnablerDxe.inf
 #$(PACKAGE_NAME)/Device/$(TARGET_DEVICE)/PatchedBinaries/DisplayDxe.inf
 #AndromedaPkg/Driver/DisplayCallerDxe/DisplayCallerDxe.inf
+AndromedaPkg/Driver/GpioButtons/GpioButtons.inf
